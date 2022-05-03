@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SpyrosKou/SpyrosKou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4 align="center">GitHub Stats</h4>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=SpyrosKou&show_icons=true&count_private=true">
+  <BR>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosKou&layout=compact&hide_border=true">
+  </p>
+<p align="center">
+	<a href="https://www.linkedin.com/in/spyroskoukas/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
