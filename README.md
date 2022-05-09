@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">GitHub Stats</h4>
+<!--<h4 align="center">GitHub Stats</h4>-->
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=SpyrosKou&show_icons=true&count_private=true">
   <BR>
