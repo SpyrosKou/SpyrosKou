@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src ="https://github-readme-stats.vercel.app/api?username=SpyrosKou&show_icons=true&count_private=true">
   <BR>
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosKou&layout=compact&hide_border=true&count_private=true&langs_count=8">
-  </p>-->
+  </p>
 
 <p align="center">
 <img width="350" src = "https://github-readme-streak-stats.herokuapp.com?user=SpyrosKou&hide_border=true&count_private=true">	
